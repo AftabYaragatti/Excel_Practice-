@@ -47,18 +47,25 @@ This repository contains my **15-Day Microsoft Excel Learning Journey**. Each da
 ## 🖼 Images
 <p align="center">
 <img src="https://raw.githubusercontent.com/AftabYaragatti/Excel_Practice-/main/DAY-1/1.jpeg" width="850">
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Excel_Practice-/main/DAY-1/2.jpeg" width="850">
 </p>
+
 ## 🎥 Demo Video
 <p align="center">
-
-<a href="https://github.com/AftabYaragatti/Excel_Practice-/blob/main/DAY-1/Data_Formating.mp4">
-<img src="https://img.shields.io/badge/▶️%20Watch-Demo%20Video-red?style=for-the-badge">
-
-</a>
-
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Excel_Practice-/main/DAY-1/demo.gif" width="900">
 </p>
+<p align="center">
+<a href="https://github.com/AftabYaragatti/Excel_Practice-/blob/main/DAY-1/Data_Formating.mp4">
+<img src="https://img.shields.io/badge/▶️%20Watch%20Full%20Video-red?style=for-the-badge">
+</a>
+</p>
+
 ## 📂 Practice File
-`Day 01/Practice.xlsx`
+<p align="center">
+<a href="https://github.com/AftabYaragatti/Excel_Practice-/blob/main/MS_EXCEL_PRACTICE.xlsx?raw=true">
+<img src="https://img.shields.io/badge/📥-Download%20Excel%20Practice%20File-217346?style=for-the-badge">
+</a>
+</p>
 
 ## 📌 Summary
 Learned how to professionally format Excel worksheets using fonts, colors, borders, alignment, number formats, and cell styles to improve readability and presentation.
