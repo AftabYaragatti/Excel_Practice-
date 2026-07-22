@@ -437,7 +437,7 @@ Built Pivot Charts to visualize Pivot Table data through interactive charts for 
 
 ## 🖼 Images
 <p align="center">
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Excel_Practice-/main/DAY-15/SALES-DASHBOARD.jpeg" width="850">
+<img src="https://github.com/AftabYaragatti/Excel_Practice-/blob/main/DAY-15/SALES%20-%20DASHBOARD.jpeg" width="850">
 </p>
 
 ## 📂 Practice File
