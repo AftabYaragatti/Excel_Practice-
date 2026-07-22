@@ -1,7 +1,7 @@
 # 📊 Microsoft Excel Complete Tutorial
 
 <p align="center">
-<img src="Images/excel-banner.png" width="100%">
+<img src="https://github.com/AftabYaragatti/Excel_Practice-/blob/main/DAY-15/SALES%20-%20DASHBOARD.jpeg" width="100%">
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ This repository contains my **15-Day Microsoft Excel Learning Journey**. Each da
 
 ## 📂 Practice File
 <p align="center">
-<a href="https://github.com/AftabYaragatti/Excel_Practice-/blob/main/MS_EXCEL_PRACTICE.xlsx?raw=true">
+<a href="https://github.com/AftabYaragatti/Excel_Practice-/blob/main/MS_EXCEL_PRACTICE.xlsx">
 <img src="https://img.shields.io/badge/📥-Download%20Excel%20Practice%20File-217346?style=for-the-badge">
 </a>
 </p>
