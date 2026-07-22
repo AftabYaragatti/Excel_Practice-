@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
+  
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-blue?style=for-the-badge)
 ![Progress](https://img.shields.io/badge/Learning-Daily-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Repository-Active-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
+
 </p>
 
 ---
@@ -435,7 +437,7 @@ Built Pivot Charts to visualize Pivot Table data through interactive charts for 
 
 ## 🖼 Images
 <p align="center">
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Excel_Practice-/main/DAY-15/1.jpeg" width="850">
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Excel_Practice-/main/DAY-15/SALES-DASHBOARD.jpeg" width="850">
 </p>
 
 ## 📂 Practice File
